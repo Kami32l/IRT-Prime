@@ -8,11 +8,6 @@ This is my first robot. IRT Prime is based on a d1 mini and an Arduino Pro Micro
 ![Front](https://github.com/Kami32l/IRT-Prime/blob/d779ccd4c7a5ad7a5e18825907f0f6db0b69bd4f/Images/front.jpg)
 
 
-# More Pictures 
-![Back](https://github.com/Kami32l/IRT-Prime/blob/d779ccd4c7a5ad7a5e18825907f0f6db0b69bd4f/Images/back.jpg)
-![Side](https://github.com/Kami32l/IRT-Prime/blob/d779ccd4c7a5ad7a5e18825907f0f6db0b69bd4f/Images/side.jpg)
-
-
 # Video
 https://user-images.githubusercontent.com/79849248/171730335-9e75d77a-3ca0-435b-b4fc-5338508c1e0f.mp4
 
@@ -41,6 +36,11 @@ Double Emergency Reversing
 # Blynk App
 ![Blynk](https://github.com/Kami32l/IRT-Prime/blob/07122da56d5d4ad407308184c4e5718f321d7758/Images/Blynk/MainLCDJoystick_white.png)
 ![Blynk](https://github.com/Kami32l/IRT-Prime/blob/07122da56d5d4ad407308184c4e5718f321d7758/Images/Blynk/ButtonSliderValueLabel_white.png)
+
+
+# More Pictures 
+![Back](https://github.com/Kami32l/IRT-Prime/blob/d779ccd4c7a5ad7a5e18825907f0f6db0b69bd4f/Images/back.jpg)
+![Side](https://github.com/Kami32l/IRT-Prime/blob/d779ccd4c7a5ad7a5e18825907f0f6db0b69bd4f/Images/side.jpg)
 
 
 # Circuit
