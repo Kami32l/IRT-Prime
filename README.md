@@ -4,8 +4,23 @@ Intelligent Robot (IRT) Prime
 
 This is my first robot. IRT Prime is based on a d1 mini and an Arduino Pro Micro. It's controlled over the internet using the Blynk app. It uses an ultrasonic sensor to prevent hitting objects when going forward. IRT Prime has four wheels and a left/right drive split that allows to rotate basically in place. It is powered by three lithium ion cells which make it possible to play with the robot for a long time.
 
+![Front](https://github.com/Kami32l/IRT-Prime/blob/d779ccd4c7a5ad7a5e18825907f0f6db0b69bd4f/Images/front.jpg)
+
+# More Pictures 
+![Back](https://github.com/Kami32l/IRT-Prime/blob/d779ccd4c7a5ad7a5e18825907f0f6db0b69bd4f/Images/back.jpg)
+![Side](https://github.com/Kami32l/IRT-Prime/blob/d779ccd4c7a5ad7a5e18825907f0f6db0b69bd4f/Images/side.jpg)
+
+# Video
+https://user-images.githubusercontent.com/79849248/171730335-9e75d77a-3ca0-435b-b4fc-5338508c1e0f.mp4
+
+# Functions
+
 # Circuit
-![obraz](https://user-images.githubusercontent.com/79849248/120123243-03f83300-c1ae-11eb-8bcc-b6e7d204d58f.png)
+![Circuit](https://user-images.githubusercontent.com/79849248/120123243-03f83300-c1ae-11eb-8bcc-b6e7d204d58f.png)
+
+# Blynk
+![Blynk]
+
 
 # Code
 D1 mini - esp8266
