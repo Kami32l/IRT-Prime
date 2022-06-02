@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/79849248/171730335-9e75d77a-3ca0-435b-
 
 
 # Functions
-- It can go forward and backward, direction controlled by the joystick in the app.
+- It can go forward and in reverse, direction controlled by the joystick in the app.
 - Rotates almost in place to the left and to the right.
 - It has adjustable speed.
 - You can turn off the power to the motors, and thus stop the robot from the app.
@@ -31,6 +31,8 @@ Emergency Reversing
 
 ![Double Emergency Reversing](https://github.com/Kami32l/IRT-Prime/blob/07122da56d5d4ad407308184c4e5718f321d7758/Images/stopping%20too%20close%20IRT%20Prime.gif)
 Double Emergency Reversing
+
+https://user-images.githubusercontent.com/79849248/171746671-299cd64c-1af6-40e1-9b5e-b1518f7bb63f.mp4
 
 
 # Blynk App
